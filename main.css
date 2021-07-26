@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Caviar';
+    src: url('fonts/CaviarDreams.ttf');
+}
+@font-face {
+    font-family: 'LouisGeorge';
+    src: url('fonts/Louis\ George\ Cafe.ttf');
+}
+
+body {
+    font-family:'Caviar';
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    border: 2px solid black;
+    width: 99%;
+}
+.intro{
+    /* border: 2px solid black; */
+    color: #fff;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    width: 100%;
+    background: radial-gradient(ellipse at bottom,#9b9b9b,#16121b);
+}
+
+.intro span{
+    white-space: pre;
+}
+#name{
+    color:rgb(224, 99, 224);
+}
+.txt-wrapper{
+    display: flex;
+}
+.resume{
+    border: 2px solid black;
+    /* width: 100%; */
+}
+.contact{
+    border: 2px solid black;
+    /* width: 100%; */
+}
