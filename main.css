@@ -73,8 +73,8 @@ body {
 	width: 25px;
 	height: 25px;
 	background: rgba(255, 255, 255, 0.2);
-	animation: animate 20s linear infinite;
-	bottom:-200px;
+	animation: animate 25s linear infinite;
+	bottom:-300px;
 }
 .box-area li:nth-child(1) {
 	left: 86%;
