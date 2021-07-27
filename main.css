@@ -35,6 +35,9 @@ body {
 .intro span{
     white-space: pre;
 }
+#white{
+    color: white;
+}
 #name{
     color:rgb(224, 99, 224);
 }
